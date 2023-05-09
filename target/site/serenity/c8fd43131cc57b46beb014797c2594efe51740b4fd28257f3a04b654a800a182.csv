@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","POST - Register account (positive)","SUCCESS","2023-05-04T21:58:42.823+07:00[Asia/Bangkok]","0.0","2.53"
+"Authentication","POST - Register account with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:45.368+07:00[Asia/Bangkok]","0.0","0.22"
+"Authentication","POST - Register account without Authorazation (negative)","SUCCESS","2023-05-04T21:58:45.617+07:00[Asia/Bangkok]","0.0","0.13"

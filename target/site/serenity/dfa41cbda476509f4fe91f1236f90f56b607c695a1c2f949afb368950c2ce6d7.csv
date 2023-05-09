@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orders","GET - Get all Orders (positive)","SUCCESS","2023-05-04T21:58:42.865+07:00[Asia/Bangkok]","0.0","2.49"
+"Orders","GET - Get all Orders with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:45.373+07:00[Asia/Bangkok]","0.0","0.21"
+"Orders","GET - Get all Orders without Authorazation (negative)","SUCCESS","2023-05-04T21:58:45.604+07:00[Asia/Bangkok]","0.0","0.14"

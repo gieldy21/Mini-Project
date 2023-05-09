@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product Categories","GET - Get All Categories (positive)","SUCCESS","2023-05-04T21:58:45.99+07:00[Asia/Bangkok]","0.0","0.12"
+"Product Categories","GET - Get All Categories with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:46.12+07:00[Asia/Bangkok]","0.0","0.11"

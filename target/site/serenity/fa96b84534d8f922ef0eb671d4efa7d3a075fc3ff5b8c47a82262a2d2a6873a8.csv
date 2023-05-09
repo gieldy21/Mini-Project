@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product Categories","POST - Create a category (positive)","SUCCESS","2023-05-04T21:58:42.868+07:00[Asia/Bangkok]","0.0","2.49"
+"Product Categories","POST - Create a category (negative)","SUCCESS","2023-05-04T21:58:45.389+07:00[Asia/Bangkok]","0.0","0.18"
+"Product Categories","POST - Create a category with invalid endpoints(negative)","SUCCESS","2023-05-04T21:58:45.577+07:00[Asia/Bangkok]","0.0","0.13"
+"Products","POST - Create a new product (positive)","SUCCESS","2023-05-04T21:58:45.61+07:00[Asia/Bangkok]","0.0","0.15"
+"Products","POST - Create a new product (negative)","SUCCESS","2023-05-04T21:58:45.768+07:00[Asia/Bangkok]","0.0","0.14"

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products","POST - Create a new product (positive)","SUCCESS","2023-05-04T21:58:45.61+07:00[Asia/Bangkok]","0.0","0.15"
+"Products","POST - Create a new product (negative)","SUCCESS","2023-05-04T21:58:45.768+07:00[Asia/Bangkok]","0.0","0.14"

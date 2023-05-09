@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orders","GET - Get order by ID (positive)","SUCCESS","2023-05-04T21:58:45.754+07:00[Asia/Bangkok]","0.0","0.13"
+"Orders","GET - Get order by ID with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:45.896+07:00[Asia/Bangkok]","0.0","0.13"
+"Orders","GET - Get order by ID without Authorazation (negative)","SUCCESS","2023-05-04T21:58:46.03+07:00[Asia/Bangkok]","0.0","0.13"
+"Products","GET - As admin I Get product By ID ","SUCCESS","2023-05-04T21:58:45.912+07:00[Asia/Bangkok]","0.0","0.11"
+"Products","GET - As admin I Get product By ID ","SUCCESS","2023-05-04T21:58:46.034+07:00[Asia/Bangkok]","0.0","0.15"

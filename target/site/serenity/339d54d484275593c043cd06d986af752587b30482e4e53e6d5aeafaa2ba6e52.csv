@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","POST - Login account (positive)","SUCCESS","2023-05-04T21:58:45.751+07:00[Asia/Bangkok]","0.0","0.13"
+"Authentication","POST - Login account with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:45.891+07:00[Asia/Bangkok]","0.0","0.12"
+"Authentication","POST - Login account without Authorazation (negative)","SUCCESS","2023-05-04T21:58:46.021+07:00[Asia/Bangkok]","0.0","0.13"

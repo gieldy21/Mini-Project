@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","GET - Get user information (positive)","SUCCESS","2023-05-04T21:58:46.159+07:00[Asia/Bangkok]","0.0","0.15"
+"Authentication","GET - Get user information with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:46.314+07:00[Asia/Bangkok]","0.0","0.14"
+"Authentication","GET - Get user information without Authorazation (negative)","SUCCESS","2023-05-04T21:58:46.455+07:00[Asia/Bangkok]","0.0","0.12"

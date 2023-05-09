@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product Categories","DELETE - As admin I have delete a category (positive)","SUCCESS","2023-05-04T21:58:46.228+07:00[Asia/Bangkok]","0.0","0.13"
+"Product Categories","DELETE - As admin I have delete a category with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:46.358+07:00[Asia/Bangkok]","0.0","0.14"

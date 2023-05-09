@@ -12,7 +12,7 @@ public class PostAssignProductRating {
 
     @Step("I set POST endpoints assign a product rating")
     public String setPostApiEndpointAssignRating(){
-        return url + "products/13222/ratings";
+        return url + "products/13684/ratings";
     }
 
     @Step("I send POST HTTP request assign a product rating")
@@ -23,7 +23,7 @@ public class PostAssignProductRating {
     }
     @Step("I set POST invalid endpoints assign a product rating")
     public String setPostApiInvalidEndpointAssignRating(){
-        return url + "products/13222/rating";
+        return url + "products/13684/rating";
     }
     @Step("I send invalid POST HTTP request assign a product rating")
     public void sendInvalidPostHttpRequestAssignRating(){

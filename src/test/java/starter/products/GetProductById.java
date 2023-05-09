@@ -11,7 +11,7 @@ public class GetProductById {
     @Step("I set GET endpoints By ID")
     public String setApiEndpointByID(){
 
-        return url + "products/13222";
+        return url + "products/13684";
     }
     @Step("I send GET HTTP request By ID")
     public void sendGetHttpRequestByID(){
@@ -23,7 +23,7 @@ public class GetProductById {
     @Step("I set GET invalid endpoints By ID")
     public String setApiInvalidEndpointByID(){
 
-        return url + "product/13222";
+        return url + "product/13684";
     }
     @Step("I send invalid GET HTTP request By ID")
     public void sendInvalidGetHttpRequestByID(){

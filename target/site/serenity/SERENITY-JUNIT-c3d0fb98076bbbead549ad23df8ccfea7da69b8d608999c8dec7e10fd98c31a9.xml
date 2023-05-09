@@ -1,1 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Products" skipped="0" tests="18" time="4.54" timestamp="2023-05-04 09:58:42"><testcase name="Get - Get all products (positive)"/><testcase name="Get - Get all products (negative)"/><testcase name="POST - Create a new product (positive)"/><testcase name="POST - Create a new product (negative)"/><testcase name="GET - As admin I Get product By ID "/><testcase name="GET - As admin I Get product By ID "/><testcase name="DELETE - As admin I have delete a product (positive)"/><testcase name="DELETE - As admin I have delete a product with invalid endpoints (negative)"/><testcase name="POST - Assign a product rating (positive)"/><testcase name="POST - Assign a product rating with invalid endpoints (negative)"/><testcase name="POST - Assign a product rating without Authorazation (negative)"/><testcase name="GET - Get product ratings (positive)"/><testcase name="GET - Get product ratings with invalid endpoints (negative)"/><testcase name="POST - Create a comment for product (positive)"/><testcase name="POST - Create a comment for product with invalid endpoints (negative)"/><testcase name="POST - Create a comment for product without Authorization (negative)"/><testcase name="GET - Get product comments (positive)"/><testcase name="GET - Get product comments with invalid endpoints (negative)"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Products" skipped="0" tests="18" time="5.48" timestamp="2023-05-09 07:35:59"><testcase name="Get - Get all products (positive)"/><testcase name="Get - Get all products (negative)"/><testcase name="POST - Create a new product (positive)"/><testcase name="POST - Create a new product (negative)"/><testcase name="GET - As admin I Get product By ID "><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+starter.products.GetAllProducts.lambda$validateHttpResponseCode200$0(GetAllProducts.java:26)&#13;
+net.serenitybdd.rest.SerenityRest.restAssuredThat(SerenityRest.java:626)&#13;
+starter.products.GetAllProducts.validateHttpResponseCode200(GetAllProducts.java:26)&#13;
+starter.stepdefinitions.ProductSteps.receiveValidHttpResponseCode(ProductSteps.java:44)&#13;
+✽.I receive valid HTTP response code 200(file:///D:/1.%20QA%20ALTERRA%20ACADEMY/MobileTesting/MiniProject/src/test/resources/api/products.feature:34)&#13;
+</system-err></testcase><testcase name="GET - As admin I Get product By ID "/><testcase name="DELETE - As admin I have delete a product (positive)"/><testcase name="DELETE - As admin I have delete a product with invalid endpoints (negative)"/><testcase name="POST - Assign a product rating (positive)"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;500&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;500&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;500&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1268)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+starter.products.GetAllProducts.lambda$validateHttpResponseCode200$0(GetAllProducts.java:26)&#13;
+net.serenitybdd.rest.SerenityRest.restAssuredThat(SerenityRest.java:626)&#13;
+starter.products.GetAllProducts.validateHttpResponseCode200(GetAllProducts.java:26)&#13;
+starter.stepdefinitions.ProductSteps.receiveValidHttpResponseCode(ProductSteps.java:44)&#13;
+✽.I receive valid HTTP response code 200(file:///D:/1.%20QA%20ALTERRA%20ACADEMY/MobileTesting/MiniProject/src/test/resources/api/products.feature:58)&#13;
+</system-err></testcase><testcase name="POST - Assign a product rating with invalid endpoints (negative)"/><testcase name="POST - Assign a product rating without Authorazation (negative)"/><testcase name="GET - Get product ratings (positive)"/><testcase name="GET - Get product ratings with invalid endpoints (negative)"/><testcase name="POST - Create a comment for product (positive)"/><testcase name="POST - Create a comment for product with invalid endpoints (negative)"/><testcase name="POST - Create a comment for product without Authorization (negative)"/><testcase name="GET - Get product comments (positive)"/><testcase name="GET - Get product comments with invalid endpoints (negative)"/></testsuite>

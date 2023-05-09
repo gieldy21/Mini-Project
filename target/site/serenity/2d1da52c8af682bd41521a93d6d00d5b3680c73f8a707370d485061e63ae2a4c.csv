@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Products","POST - Assign a product rating (positive)","SUCCESS","2023-05-04T21:58:46.449+07:00[Asia/Bangkok]","0.0","0.11"
-"Products","POST - Assign a product rating with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:46.561+07:00[Asia/Bangkok]","0.0","0.1"
-"Products","POST - Assign a product rating without Authorazation (negative)","SUCCESS","2023-05-04T21:58:46.667+07:00[Asia/Bangkok]","0.0","0.09"
+"Products","POST - Assign a product rating (positive)","FAILURE","2023-05-09T19:36:03.563+07:00[Asia/Bangkok]","0.0","0.11"
+"Products","POST - Assign a product rating with invalid endpoints (negative)","SUCCESS","2023-05-09T19:36:03.68+07:00[Asia/Bangkok]","0.0","0.11"
+"Products","POST - Assign a product rating without Authorazation (negative)","SUCCESS","2023-05-09T19:36:03.79+07:00[Asia/Bangkok]","0.0","0.1"

@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Products","GET - Get product comments (positive)","SUCCESS","2023-05-04T21:58:47.302+07:00[Asia/Bangkok]","0.0","0.11"
-"Products","GET - Get product comments with invalid endpoints (negative)","SUCCESS","2023-05-04T21:58:47.416+07:00[Asia/Bangkok]","0.0","0.1"
+"Products","GET - Get product comments (positive)","SUCCESS","2023-05-09T19:36:04.39+07:00[Asia/Bangkok]","0.0","0.11"
+"Products","GET - Get product comments with invalid endpoints (negative)","SUCCESS","2023-05-09T19:36:04.505+07:00[Asia/Bangkok]","0.0","0.09"

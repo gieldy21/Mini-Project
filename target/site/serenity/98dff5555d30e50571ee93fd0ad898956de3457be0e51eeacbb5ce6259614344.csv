@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Products","POST - Create a comment for product (positive)","SUCCESS","2023-05-09T19:36:04.102+07:00[Asia/Bangkok]","0.0","0.1"
-"Products","POST - Create a comment for product with invalid endpoints (negative)","SUCCESS","2023-05-09T19:36:04.208+07:00[Asia/Bangkok]","0.0","0.09"
-"Products","POST - Create a comment for product without Authorization (negative)","SUCCESS","2023-05-09T19:36:04.3+07:00[Asia/Bangkok]","0.0","0.09"
+"Products","POST - Create a comment for product (positive)","SUCCESS","2023-05-10T16:59:55.16+07:00[Asia/Bangkok]","0.0","0.25"
+"Products","POST - Create a comment for product with invalid endpoints (negative)","SUCCESS","2023-05-10T16:59:55.413+07:00[Asia/Bangkok]","0.0","0.36"
+"Products","POST - Create a comment for product without Authorization (negative)","SUCCESS","2023-05-10T16:59:55.78+07:00[Asia/Bangkok]","0.0","0.28"

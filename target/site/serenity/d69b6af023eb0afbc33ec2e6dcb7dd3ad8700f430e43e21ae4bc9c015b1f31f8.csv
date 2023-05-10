@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Hello","GET - Say Hello (positive)","SUCCESS","2023-05-09T19:35:59.024+07:00[Asia/Bangkok]","0.0","3.18"
-"Hello","GET - Say Hello with invalid endpoints (negative)","SUCCESS","2023-05-09T19:36:02.302+07:00[Asia/Bangkok]","0.0","0.14"
+"Hello","GET - Say Hello (positive)","SUCCESS","2023-05-10T16:59:46.455+07:00[Asia/Bangkok]","0.0","5.59"
+"Hello","GET - Say Hello with invalid endpoints (negative)","SUCCESS","2023-05-10T16:59:52.063+07:00[Asia/Bangkok]","0.0","0.23"

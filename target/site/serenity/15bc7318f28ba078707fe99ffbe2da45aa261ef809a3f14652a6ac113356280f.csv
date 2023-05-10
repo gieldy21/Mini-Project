@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Product Categories","GET - Get category by ID (positive)","SUCCESS","2023-05-09T19:36:02.607+07:00[Asia/Bangkok]","0.0","0.16"
-"Product Categories","GET - Get category by ID with invalid endpoints (negative)","SUCCESS","2023-05-09T19:36:02.767+07:00[Asia/Bangkok]","0.0","0.14"
+"Product Categories","GET - Get category by ID (positive)","SUCCESS","2023-05-10T16:59:52.748+07:00[Asia/Bangkok]","0.0","0.17"
+"Product Categories","GET - Get category by ID with invalid endpoints (negative)","SUCCESS","2023-05-10T16:59:52.932+07:00[Asia/Bangkok]","0.0","0.16"

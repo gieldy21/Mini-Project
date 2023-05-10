@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Authentication","POST - Login account (positive)","SUCCESS","2023-05-09T19:36:02.651+07:00[Asia/Bangkok]","0.0","0.14"
-"Authentication","POST - Login account with invalid endpoints (negative)","SUCCESS","2023-05-09T19:36:02.801+07:00[Asia/Bangkok]","0.0","0.15"
-"Authentication","POST - Login account without Authorazation (negative)","SUCCESS","2023-05-09T19:36:02.958+07:00[Asia/Bangkok]","0.0","0.12"
+"Authentication","POST - Login account (positive)","SUCCESS","2023-05-10T16:59:52.753+07:00[Asia/Bangkok]","0.0","0.16"
+"Authentication","POST - Login account with invalid endpoints (negative)","SUCCESS","2023-05-10T16:59:52.925+07:00[Asia/Bangkok]","0.0","0.17"
+"Authentication","POST - Login account without Authorazation (negative)","SUCCESS","2023-05-10T16:59:53.098+07:00[Asia/Bangkok]","0.0","0.19"

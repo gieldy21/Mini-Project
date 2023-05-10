@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Hello" skipped="0" tests="2" time="3.32" timestamp="2023-05-09 07:35:59"><testcase name="GET - Say Hello (positive)"/><testcase name="GET - Say Hello with invalid endpoints (negative)"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Hello" skipped="0" tests="2" time="5.82" timestamp="2023-05-10 04:59:46"><testcase name="GET - Say Hello (positive)"/><testcase name="GET - Say Hello with invalid endpoints (negative)"/></testsuite>
